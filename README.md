@@ -2,12 +2,12 @@
     $ apt update -y && apt upgrade -y
     $ pkg install git
     $ pkg install python
-    $ git clone https://github.com/RozhakXD/Fb-Crack
-    $ cd Fb-Crack
+    $ git clone https://github.com/HendriChan/V1
+    $ cd V1
     $ pip install -r requirements.txt
-    $ python Run.py
+    $ python gas.py
 ### Update Script :
     $ rm -rf $HOME/V1
-    $ git https://github.com/HendriChan/V1
-    $ cd Fb-Crack
-    $ python Run.py
+    $ git clone https://github.com/HendriChan/V1
+    $ cd V1
+    $ python gas.py
